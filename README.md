@@ -1,27 +1,41 @@
-# Spa
+# Single Page Application | Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.7.
+Este proyecto fue generado con [Angular CLI](https://github.com/angular/angular-cli) _**version 10.0.7.**_
 
-## Development server
+![Single Page Application | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602045925/spa-angular_1_z3wmhq.png "Single Page Application | Angular")
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+![Single Page Application | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602045926/spa-angular_2_gaisue.png "Single Page Application | Angular")
 
-## Code scaffolding
+![Single Page Application | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602045926/spa-angular_3_pigaht.png "Single Page Application | Angular")
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+![Single Page Application | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602045926/spa-angular_4_nito16.png "Single Page Application | Angular")
 
-## Build
+![Single Page Application | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602045925/spa-angular_5_hj7jkt.png "Single Page Application | Angular")
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Aplicación de una sola página (Single Page Application) - **Proyecto: Heroes**
 
-## Running unit tests
+### **Tecnologías | Lenguajes de Programación | Herramientas | Frameworks | Librerias**
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+> -   Framework **Angular 10.0.7**
+> -   Framework **Bootstrap 4.5**
+> -   TypeScript
+> -   ES6
+> -   HTML 5
+> -   CSS 3
 
-## Running end-to-end tests
+### **Caracterisiticas**
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+> -   Proyecto Angular usando el CLI (Command Line Interface)
+> -   Creación de rutas en la aplicación.
+> -   Uso de RouterLink y RouterLinkActive para movernos de página y colocar clases a los elementos activos.
+> -   Uso del modulo Router, que nos permite movernos de página mediante código.
+> -   Obtención de parámetros vía URL.
+> -   Configuración de servicio para el manejo de la data.
+> -   Uso basico de Pipes.
+> -   Uso del buscador del navbar para realizar una consulta a nuestro arreglo de héroes.
 
-## Further help
+### Autor
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Desarrollado en el curso _**Udemy | Angular de 0 a Avanzado | Fernando Herrera**_
+
+Realización de la practica: _**José Saldivar**_
