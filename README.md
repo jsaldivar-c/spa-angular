@@ -2,15 +2,15 @@
 
 Este proyecto fue generado con [Angular CLI](https://github.com/angular/angular-cli) _**version 10.0.7.**_
 
-![Single Page Application | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602045925/spa-angular_1_z3wmhq.png "Single Page Application | Angular")
+![Single Page Application | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602045925/GitHub/spa-angular_1_z3wmhq.png "Single Page Application | Angular")
 
-![Single Page Application | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602045926/spa-angular_2_gaisue.png "Single Page Application | Angular")
+![Single Page Application | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602045926/GitHub/spa-angular_2_gaisue.png "Single Page Application | Angular")
 
-![Single Page Application | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602045926/spa-angular_3_pigaht.png "Single Page Application | Angular")
+![Single Page Application | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602045926/GitHub/spa-angular_3_pigaht.png "Single Page Application | Angular")
 
-![Single Page Application | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602045926/spa-angular_4_nito16.png "Single Page Application | Angular")
+![Single Page Application | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602045926/GitHub/spa-angular_4_nito16.png "Single Page Application | Angular")
 
-![Single Page Application | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602045925/spa-angular_5_hj7jkt.png "Single Page Application | Angular")
+![Single Page Application | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602045925/GitHub/spa-angular_5_hj7jkt.png "Single Page Application | Angular")
 
 Aplicación de una sola página (Single Page Application) - **Proyecto: Heroes**
 
